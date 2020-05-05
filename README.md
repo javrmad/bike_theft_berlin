@@ -23,5 +23,5 @@ The following files can be found in the "Data" folder of this repository:
 3. "Falle_KA.xlsx" in the "Clean" folder. This is the arranged data for total cases with associated post codes to district regions, which were found and manually to the existing data. 
 4. "HZ_KA.xlsx" in the "Clean" folder. This This is the arranged data for the frequency of cases with associated post codes to district regions, which were found and manually to the existing data. The data of the bike thefts was then added as a column to the "Falle_KA.xlsx" file.
 
-The results of the analysis are presented in the Tableau Packaged Workbook named "Bike theft in Berlin" in this folder.
+The results of the analysis are presented in the Tableau Packaged Workbook named "Bike theft in Berlin" in this folder. The workbook can also viewed here: https://public.tableau.com/views/BiketheftinBerlin/BiketheftinBerlin?:display_count=y&:origin=viz_share_link
 
